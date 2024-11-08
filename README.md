@@ -1,5 +1,5 @@
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=catgempesaw&theme=onedark&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=catgempesaw&theme=dark)](https://git.io/streak-stats)
 <!--
 **catgempesaw/catgempesaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
