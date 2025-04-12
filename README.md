@@ -1,5 +1,7 @@
-## 💫 About Me:
-🔭 I’m currently working on our thesis on Flood Resilience Chatbot using AI.<br>🌱 I’m currently learning Machine Learning 1.
+<h1 align="center">Hey there! 👋 I'm Cassey</h1>
+<h3 align="center">💻 A passionate and hardworking Computer Science student from Davao City, Philippines 🌴</h3>
+🔭 I’m currently working on our thesis on Flood Resilience Chatbot using AI.<br>
+🌱 I’m currently learning Machine Learning 1.
 
 
 ## 🌐 Socials:
