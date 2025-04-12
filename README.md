@@ -1,15 +1,11 @@
 <h1 align="center">Hey there! 👋 I'm Cassey</h1>
 <h3 align="center">💻 A passionate and hardworking Computer Science student from Davao City, Philippines 🌴</h3>
 
-<br />
-
 <p align="center">
   🔍 Currently working on a <strong>Flood Resilience Chatbot using AI 🤖🌊</strong><br>
   📚 Diving into <strong>Machine Learning 1 📈</strong><br>
   📬 Reach me at: <strong>casseygempesaw@gmail.com 📫</strong>
 </p>
-
-<br />
 
 <h3 align="center">🌐 Connect with me</h3>
 <p align="center">
@@ -17,8 +13,6 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
-
-<br />
 
 <h3 align="center">🛠️ Languages and Tools</h3>
 <p align="center">
@@ -68,8 +62,6 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
 </p>
-
-<br />
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
