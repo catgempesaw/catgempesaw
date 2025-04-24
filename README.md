@@ -1,7 +1,9 @@
 <h3 align="center">Hello! 👋 I'm Cassey</h3>
-<p align="center">💻 Computer Science student from Davao City, Philippines 🌴</p>
+<p align="center">💻 Computer Science student from Ateneo de Davao University - Davao City, Philippines 
+</p>
 
 <p align="center">
+  👾 Backend Developer
   🔭 Working on a Flood Resilience Chatbot using AI<br>
   🌱 Learning Machine Learning 1
 </p>
