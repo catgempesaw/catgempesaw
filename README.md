@@ -40,8 +40,3 @@
   <img src="https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Cisco-049fd9?style=flat&logo=cisco&logoColor=black" />
 </p>
-
----
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=catgempesaw&theme=transparent&hide_border=true" />
-</p>
