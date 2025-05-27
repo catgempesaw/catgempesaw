@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  👾 Backend Developer
+  👾 Backend Developer<br>
   🔭 Working on a Flood Resilience Chatbot using AI<br>
   🌱 Learning Machine Learning 1
 </p>
