@@ -2,12 +2,6 @@
 <p align="center">💻 Computer Science student from Ateneo de Davao University - Davao City, Philippines 
 </p>
 
-<p align="center">
-  👾 Backend Developer<br>
-  🔭 Working on a Flood Resilience Chatbot using AI<br>
-  🌱 Learning Machine Learning 1
-</p>
-
 ---
 
 <p align="center"><b>🌐 Connect with me</b></p>
